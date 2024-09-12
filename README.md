@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aelsonlalves&label=Profile%20views&color=0e75b6&style=flat" alt="aelsonlalves" /> </p>
 
-- 🔭 Atualmente estou trabalhando no projeto pessoal [Web scraping com selenium](https://github.com/Aelsonlalves/webscrapingcomselenium)
+- 🔭 Atualmente estou trabalhando no projeto pessoal ([prevendo preço de imóveis do Brasil](https://github.com/Aelsonlalves/imoveis-br))
 
 - 🌱 Eu estou no momento aprendendo **SQL, Python e machine learning**
 
